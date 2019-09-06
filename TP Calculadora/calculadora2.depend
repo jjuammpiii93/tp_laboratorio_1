@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1567740099 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"IngresarOperando.h"
+	"suma.h"
+	"resta.h"
+	"multiplicar.h"
+	"dividir.h"
+	"factorial.h"
+	"InformarResultados.h"
+
+1567726718 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\mensaje.c
+	"mensaje.h"
+
+1567726643 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+
+1567734585 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\menu.c
+	"menu.h"
+
+1567729287 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1567740642 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\ingresaroperando.c
+	"IngresarOperando.h"
+
+1567729566 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\ingresaroperando.h
+	<stdio.h>
+	<stdlib.h>
+
+1567735286 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\operaciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567735442 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\operaciones.c
+	"Operaciones.h"
+
+1567740550 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\informarresultados.c
+	"InformarResultados.h"
+
+1567740099 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\informarresultados.h
+	<stdio.h>
+	<stdlib.h>
+
+1567736952 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\suma.h
+	<stdio.h>
+	<stdlib.h>
+
+1567736952 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\suma.c
+	"suma.h"
+
+1567737386 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\resta.c
+	"resta.h"
+
+1567737386 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\resta.h
+	<stdio.h>
+	<stdlib.h>
+
+1567740550 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\dividir.c
+	"dividir.h"
+
+1567740099 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\dividir.h
+	<stdio.h>
+	<stdlib.h>
+
+1567737986 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\multiplicar.c
+	"multiplicar.h"
+
+1567738262 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\multiplicar.h
+	<stdio.h>
+	<stdlib.h>
+
+1567738967 source:c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\factorial.c
+	"factorial.h"
+
+1567738967 c:\users\lucho\desktop\tecnicatura programación\primer cuatrimestre\calculadora2\factorial.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\dividir.c
+	"dividir.h"
+
+1567752340 c:\users\alumno\downloads\calculadora2\dividir.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\factorial.c
+	"factorial.h"
+
+1567752370 c:\users\alumno\downloads\calculadora2\factorial.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\informarresultados.c
+	"InformarResultados.h"
+
+1567789792 c:\users\alumno\downloads\calculadora2\informarresultados.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\ingresaroperando.c
+	"IngresarOperando.h"
+
+1567752370 c:\users\alumno\downloads\calculadora2\ingresaroperando.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"IngresarOperando.h"
+	"suma.h"
+	"resta.h"
+	"multiplicar.h"
+	"dividir.h"
+	"factorial.h"
+	"InformarResultados.h"
+
+1567752372 c:\users\alumno\downloads\calculadora2\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1567752384 c:\users\alumno\downloads\calculadora2\suma.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 c:\users\alumno\downloads\calculadora2\resta.h
+	<stdio.h>
+	<stdlib.h>
+
+1567752380 c:\users\alumno\downloads\calculadora2\multiplicar.h
+	<stdio.h>
+	<stdlib.h>
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\menu.c
+	"menu.h"
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\multiplicar.c
+	"multiplicar.h"
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\resta.c
+	"resta.h"
+
+1567789792 source:c:\users\alumno\downloads\calculadora2\suma.c
+	"suma.h"
+
