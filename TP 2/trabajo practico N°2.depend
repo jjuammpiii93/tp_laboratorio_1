@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1569966383 source:c:\users\juan\desktop\utn\trabajo practico n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1569959398 source:c:\users\juan\desktop\utn\trabajo practico n°2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1569959397 c:\users\juan\desktop\utn\trabajo practico n°2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1569949733 source:c:\users\juan\desktop\utn\trabajo practico n°2\utn.c
+	"utn.h"
+
+1569956405 c:\users\juan\desktop\utn\trabajo practico n°2\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570142344 source:c:\users\lucho\desktop\trabajo practico n°2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1570141151 c:\users\lucho\desktop\trabajo practico n°2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1569949734 source:c:\users\lucho\desktop\trabajo practico n°2\utn.c
+	"utn.h"
+
+1569956406 c:\users\lucho\desktop\trabajo practico n°2\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570142520 source:c:\users\lucho\desktop\trabajo practico n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570062479 source:c:\users\lucho\desktop\trabajo practico n°2\funcionesgenerales.c
+
+1570154254 source:c:\users\alumno\downloads\arrayemployees.c
+	"ArrayEmployees.h"
+
+1570154254 c:\users\alumno\downloads\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1570154268 c:\users\alumno\downloads\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570154258 source:c:\users\alumno\downloads\funcionesgenerales.c
+
+1570154260 source:c:\users\alumno\downloads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1570154262 source:c:\users\alumno\downloads\utn.c
+	"utn.h"
+
