@@ -1,0 +1,300 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573075205 source:c:\users\lucho\desktop\tp3_esqueleto\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1533133022 c:\users\lucho\desktop\tp3_esqueleto\win_64\linkedlist.h
+
+1573075224 c:\users\lucho\desktop\tp3_esqueleto\win_64\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1573075205 source:c:\users\lucho\desktop\tp3_esqueleto\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1533133022 c:\users\lucho\desktop\tp3_esqueleto\win_64\controller.h
+
+1573074233 source:c:\users\lucho\desktop\tp3_esqueleto\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572732756 source:c:\users\lucho\desktop\tp3_esqueleto\win_64\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validaciones.h"
+
+1572732762 c:\users\lucho\desktop\tp3_esqueleto\win_64\validaciones.h
+
+1573074535 source:c:\users\lucho\desktop\tp3_esqueleto\win_64\employee.c
+	"Employee.h"
+
+1533133022 c:\users\lucho\desktop\tp3_esqueleto\win_64\parser.h
+
+1573135686 source:c:\users\alumno\desktop\tp3_esqueleto\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573128201 c:\users\alumno\desktop\tp3_esqueleto\win_64\linkedlist.h
+
+1573131325 c:\users\alumno\desktop\tp3_esqueleto\win_64\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1573128201 c:\users\alumno\desktop\tp3_esqueleto\win_64\validaciones.h
+
+1573128201 c:\users\alumno\desktop\tp3_esqueleto\win_64\parser.h
+
+1573131325 source:c:\users\alumno\desktop\tp3_esqueleto\win_64\employee.c
+	"Employee.h"
+
+1573135686 source:c:\users\alumno\desktop\tp3_esqueleto\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573128201 c:\users\alumno\desktop\tp3_esqueleto\win_64\controller.h
+
+1573128201 source:c:\users\alumno\desktop\tp3_esqueleto\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573128201 source:c:\users\alumno\desktop\tp3_esqueleto\win_64\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validaciones.h"
+
+1573173849 source:c:\users\lucho\desktop\tp leonardo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573146882 c:\users\lucho\desktop\tp leonardo\linkedlist.h
+
+1573146876 c:\users\lucho\desktop\tp leonardo\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1573146888 c:\users\lucho\desktop\tp leonardo\validaciones.h
+
+1573146882 c:\users\lucho\desktop\tp leonardo\parser.h
+
+1573173992 source:c:\users\lucho\desktop\tp leonardo\employee.c
+	"Employee.h"
+
+1573174938 source:c:\users\lucho\desktop\tp leonardo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573146878 c:\users\lucho\desktop\tp leonardo\controller.h
+
+1573174706 source:c:\users\lucho\desktop\tp leonardo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573146886 source:c:\users\lucho\desktop\tp leonardo\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validaciones.h"
+
+1573178941 source:c:\users\lucho\desktop\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573146882 c:\users\lucho\desktop\tp3\linkedlist.h
+
+1573146876 c:\users\lucho\desktop\tp3\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1573146888 c:\users\lucho\desktop\tp3\validaciones.h
+
+1573146882 c:\users\lucho\desktop\tp3\parser.h
+
+1573177098 source:c:\users\lucho\desktop\tp3\employee.c
+	"Employee.h"
+
+1573177925 source:c:\users\lucho\desktop\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573177993 source:c:\users\lucho\desktop\tp3\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validaciones.h"
+
+1573175943 source:c:\users\lucho\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573146878 c:\users\lucho\desktop\tp3\controller.h
+
+1573222874 source:c:\users\alumno\downloads\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573222874 c:\users\alumno\downloads\tp3\linkedlist.h
+
+1573222874 c:\users\alumno\downloads\tp3\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1573222875 c:\users\alumno\downloads\tp3\validaciones.h
+
+1573222874 c:\users\alumno\downloads\tp3\parser.h
+
+1573222874 source:c:\users\alumno\downloads\tp3\employee.c
+	"Employee.h"
+
+1573222874 source:c:\users\alumno\downloads\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573222874 c:\users\alumno\downloads\tp3\controller.h
+
+1573222874 source:c:\users\alumno\downloads\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573222874 source:c:\users\alumno\downloads\tp3\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validaciones.h"
+
